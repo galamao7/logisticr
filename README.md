@@ -9,3 +9,6 @@ pip install [options] [-e] < project url>
 * pylab/ipython: for generating plots
 
 ##Examples
+
+##Project Homepage
+https://github.com/galamao7/logisticr
